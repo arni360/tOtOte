@@ -1,0 +1,14 @@
+BOnjOur les gens
+j'adOre les cOurs qui n'Ont aucun sens
+<<<<<<< HEAD
+Je rajOute cette ligne
+hey me vOilà
+mOi aussi
+<<<<<<< HEAD
+master
+=======
+et mOi dOnc
+>>>>>>> fonct1
+=======
+Je rajOute cette ligne
+>>>>>>> Je rajoute cette ligne
